@@ -8,9 +8,10 @@ h2 {
 }
 #box1 {
 height: 100px;
-Width: 1000px;
+Width: 900px;
 border: 3px Solid blue;
 background-color: yellow;
 border-radius: 4px;
-margin: 3px;
+margin: 30px;
+padding-top:20%
 }
